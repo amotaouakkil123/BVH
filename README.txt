@@ -2,6 +2,8 @@ Hi!
 
 You've stumbled upon my beginner graphics project as an introduction to OpenGL for COMP 557 at McGill
 and as well as the math underlying the discipline.
+The src folder contains all the source files used to code the project while the resources directory
+contains all the shaders and bvh files that are loaded in the project.
 The task was to load a bvh file, draw all the axes at the right spot and then finally implement
 the draw method DAGNode to recursively draw the animation. Using a MatrixStack.
 The source code and resources are provided and only a short video is necessary to view the project
